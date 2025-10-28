@@ -40,6 +40,7 @@ Bu proje, retina görüntülerinde **kalın ve ince damarların tespitini ve seg
 
 ## İletişim
 
-- **LinkedIn:** [https://www.linkedin.com/in/batuhannacitarhan](https://www.linkedin.com/in/batuhan-nacitarhan)  
+- **LinkedIn:** [https://www.linkedin.com/in/batuhan-nacitarhan](https://www.linkedin.com/in/batuhan-nacitarhan)  
 - **GitHub:** [https://github.com/BatuhanNacitarhan](https://github.com/BatuhanNacitarhan)  
 - **E-posta:** batuhannacitarhan@gmail.com
+
