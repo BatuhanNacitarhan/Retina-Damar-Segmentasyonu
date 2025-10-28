@@ -1,0 +1,45 @@
+=== Metrics Summary ===
+
+Binary Prediction Metrics:
+IoU:
+  Mean: 0.6905
+  Std:  0.0946
+
+Dice:
+  Mean: 0.8136
+  Std:  0.0606
+
+Precision:
+  Mean: 0.8400
+  Std:  0.0516
+
+Recall:
+  Mean: 0.7912
+  Std:  0.0804
+
+F1:
+  Mean: 0.8136
+  Std:  0.0606
+
+
+Continuous Prediction Metrics:
+IoU:
+  Mean: 0.6824
+  Std:  0.0936
+
+Dice:
+  Mean: 0.8078
+  Std:  0.0606
+
+Precision:
+  Mean: 0.8487
+  Std:  0.0496
+
+Recall:
+  Mean: 0.7732
+  Std:  0.0806
+
+F1:
+  Mean: 0.8078
+  Std:  0.0606
+

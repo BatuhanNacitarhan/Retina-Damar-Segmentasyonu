@@ -1,0 +1,7 @@
+timestamp: 20250108_122355
+image_path: image/4.png
+prepared_patches: 1506
+patch_size: 64
+gaussian_levels: 3
+img_shape: (1506, 64, 64)
+label_shape: (1506, 64, 64)

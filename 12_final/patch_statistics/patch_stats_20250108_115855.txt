@@ -1,0 +1,4 @@
+timestamp: 20250108_115855
+image_path: image/0.png
+total_patches: 414
+visited_points: 414

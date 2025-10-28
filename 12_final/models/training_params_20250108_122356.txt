@@ -1,0 +1,10 @@
+timestamp: 20250108_122356
+device: cuda
+batch_size: 32
+learning_rate: 0.001
+num_epochs: 20
+model_type: UNet
+input_channels: 1
+output_channels: 1
+total_patches: 3195
+gaussian_levels: 3

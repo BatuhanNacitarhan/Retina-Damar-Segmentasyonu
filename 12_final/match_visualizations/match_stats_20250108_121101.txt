@@ -1,0 +1,4 @@
+timestamp: 20250108_121101
+image_path: image/0.png
+total_matches: 563
+threshold_used: 0.23
