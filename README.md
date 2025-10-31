@@ -1,7 +1,7 @@
 ﻿# Retina Damar Segmentasyonu
 
 
-Bu proje, retina görüntülerinde **kalın ve ince damarların tespitini ve segmentasyonunu** gerçekleştiren bir derin öğrenme pipeline’ını içermektedir. Proje, **U-Net tabanlı modeller** kullanılarak damar yapılarının otomatik olarak tespit edilmesini sağlar.
+Bu proje, retina görüntülerinde **kılcal ve ince/kalın damarların tespitini ve segmentasyonunu** gerçekleştiren bir derin öğrenme pipeline’ını içermektedir. Proje, **U-Net tabanlı modeller** kullanılarak damar yapılarının otomatik olarak tespit edilmesini sağlar.
 
 ---
 
@@ -43,4 +43,5 @@ Bu proje, retina görüntülerinde **kalın ve ince damarların tespitini ve seg
 - **LinkedIn:** [https://www.linkedin.com/in/batuhan-nacitarhan](https://www.linkedin.com/in/batuhan-nacitarhan)  
 - **GitHub:** [https://github.com/BatuhanNacitarhan](https://github.com/BatuhanNacitarhan)  
 - **E-posta:** batuhannacitarhan@gmail.com
+
 
